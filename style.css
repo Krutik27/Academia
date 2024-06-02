@@ -418,6 +418,9 @@ html{
 
 
 @media(max-width:450px){
+    #con{
+        top:700px;
+        left:280px;
 
    
     nav{
